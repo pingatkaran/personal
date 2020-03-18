@@ -9,6 +9,8 @@ adb shell input tap 594 127
 
 sleep 15
 
+
+
 adb shell input tap 552 1110
 
 
