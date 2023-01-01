@@ -7,3 +7,4 @@
 2023-01-01 - Update README
 2023-01-01 - Fix bug
 2023-01-01 - Add feature
+2023-01-01 - Improve docs
