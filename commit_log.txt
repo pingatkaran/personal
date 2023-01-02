@@ -1,2 +1,3 @@
 2023-01-01 - Fix typo
 2023-01-01 - Add feature
+2023-01-02 - Add feature
