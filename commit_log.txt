@@ -600,3 +600,4 @@
 2023-01-03 - Fix typo
 2023-01-03 - Improve docs
 2023-01-04 - Fix typo
+2023-01-04 - Refactor code
