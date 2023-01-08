@@ -11,3 +11,4 @@
 2023-01-07 - Update dependencies
 2023-01-07 - Improve docs
 2023-01-07 - Optimize performance
+2023-01-08 - Update README
