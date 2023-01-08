@@ -13,3 +13,4 @@
 2023-01-07 - Optimize performance
 2023-01-08 - Update README
 2023-01-08 - Optimize performance
+2023-01-08 - Improve docs
