@@ -610,3 +610,4 @@
 2023-01-07 - Update dependencies
 2023-01-08 - Add feature
 2023-01-08 - Add tests
+2023-01-09 - Improve docs
