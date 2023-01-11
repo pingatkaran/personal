@@ -19,3 +19,4 @@
 2023-01-10 - Optimize performance
 2023-01-11 - Fix bug
 2023-01-11 - Add tests
+2023-01-11 - Refactor code
