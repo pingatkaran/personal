@@ -618,3 +618,4 @@
 2023-01-11 - Improve docs
 2023-01-12 - Refactor code
 2023-01-12 - Update README
+2023-01-12 - Fix typo
