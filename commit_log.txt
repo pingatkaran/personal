@@ -24,3 +24,4 @@
 2023-01-12 - Add tests
 2023-01-12 - Improve docs
 2023-01-13 - Add tests
+2023-01-14 - Optimize performance
