@@ -625,3 +625,4 @@
 2023-01-16 - Improve docs
 2023-01-17 - Update configurations
 2023-01-17 - Fix bug
+2023-01-17 - Add feature
