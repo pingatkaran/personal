@@ -29,3 +29,4 @@
 2023-01-15 - Add tests
 2023-01-15 - Update dependencies
 2023-01-16 - Improve docs
+2023-01-17 - Improve docs
