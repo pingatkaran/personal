@@ -32,3 +32,4 @@
 2023-01-17 - Improve docs
 2023-01-17 - Update README
 2023-01-18 - Improve docs
+2023-01-18 - Update configurations
