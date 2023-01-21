@@ -38,3 +38,4 @@
 2023-01-19 - Fix typo
 2023-01-20 - Update README
 2023-01-20 - Add tests
+2023-01-21 - Improve docs
