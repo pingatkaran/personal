@@ -632,3 +632,4 @@
 2023-01-19 - Update dependencies
 2023-01-20 - Improve docs
 2023-01-21 - Improve docs
+2023-01-21 - Optimize performance
