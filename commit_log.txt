@@ -40,3 +40,4 @@
 2023-01-20 - Add tests
 2023-01-21 - Improve docs
 2023-01-21 - Update configurations
+2023-01-21 - Improve docs
