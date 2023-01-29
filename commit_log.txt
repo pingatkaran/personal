@@ -53,3 +53,4 @@
 2023-01-27 - Update README
 2023-01-27 - Update dependencies
 2023-01-28 - Improve docs
+2023-01-29 - Fix typo
