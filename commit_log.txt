@@ -58,3 +58,4 @@
 2023-01-31 - Add feature
 2023-01-31 - Update README
 2023-01-31 - Update dependencies
+2023-02-01 - Update README
