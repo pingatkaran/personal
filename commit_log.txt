@@ -63,3 +63,4 @@
 2023-02-02 - Add feature
 2023-02-03 - Improve docs
 2023-02-03 - Optimize performance
+2023-02-04 - Add tests
