@@ -75,3 +75,4 @@
 2023-02-08 - Add feature
 2023-02-09 - Fix typo
 2023-02-09 - Refactor code
+2023-02-10 - Update configurations
