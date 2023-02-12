@@ -81,3 +81,4 @@
 2023-02-11 - Update dependencies
 2023-02-11 - Fix bug
 2023-02-11 - Update configurations
+2023-02-12 - Fix typo
