@@ -83,3 +83,4 @@
 2023-02-11 - Update configurations
 2023-02-12 - Fix typo
 2023-02-12 - Add feature
+2023-02-13 - Optimize performance
