@@ -95,3 +95,4 @@
 2023-02-17 - Fix typo
 2023-02-18 - Update dependencies
 2023-02-19 - Optimize performance
+2023-02-19 - Update README
