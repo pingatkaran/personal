@@ -97,3 +97,4 @@
 2023-02-19 - Optimize performance
 2023-02-19 - Update README
 2023-02-20 - Fix typo
+2023-02-21 - Fix bug
