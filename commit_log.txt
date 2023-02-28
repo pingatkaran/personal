@@ -111,3 +111,4 @@
 2023-02-27 - Improve docs
 2023-02-28 - Add feature
 2023-02-28 - Update configurations
+2023-02-28 - Update dependencies
