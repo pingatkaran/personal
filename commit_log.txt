@@ -126,3 +126,4 @@
 2023-03-06 - Update README
 2023-03-06 - Optimize performance
 2023-03-07 - Add tests
+2023-03-08 - Fix typo
