@@ -142,3 +142,4 @@
 2023-03-14 - Improve docs
 2023-03-14 - Add tests
 2023-03-15 - Update configurations
+2023-03-15 - Improve docs
