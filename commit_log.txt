@@ -163,3 +163,4 @@
 2023-03-23 - Update dependencies
 2023-03-24 - Optimize performance
 2023-03-25 - Refactor code
+2023-03-25 - Update README
