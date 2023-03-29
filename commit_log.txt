@@ -171,3 +171,4 @@
 2023-03-28 - Fix bug
 2023-03-28 - Add tests
 2023-03-28 - Refactor code
+2023-03-29 - Improve docs
