@@ -174,3 +174,4 @@
 2023-03-29 - Improve docs
 2023-03-29 - Optimize performance
 2023-03-30 - Fix typo
+2023-03-30 - Update README
