@@ -179,3 +179,4 @@
 2023-03-31 - Optimize performance
 2023-03-31 - Refactor code
 2023-04-01 - Update configurations
+2023-04-02 - Improve docs
