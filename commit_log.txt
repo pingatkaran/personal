@@ -182,3 +182,4 @@
 2023-04-02 - Improve docs
 2023-04-02 - Optimize performance
 2023-04-02 - Update dependencies
+2023-04-03 - Add feature
