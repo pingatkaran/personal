@@ -206,3 +206,4 @@
 2023-04-13 - Fix bug
 2023-04-13 - Add tests
 2023-04-14 - Improve docs
+2023-04-14 - Update configurations
