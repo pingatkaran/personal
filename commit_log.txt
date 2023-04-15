@@ -209,3 +209,4 @@
 2023-04-14 - Update configurations
 2023-04-15 - Update dependencies
 2023-04-15 - Improve docs
+2023-04-15 - Optimize performance
