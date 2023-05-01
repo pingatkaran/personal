@@ -240,3 +240,4 @@
 2023-04-29 - Add tests
 2023-04-30 - Fix bug
 2023-04-30 - Fix typo
+2023-05-01 - Refactor code
