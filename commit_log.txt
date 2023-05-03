@@ -245,3 +245,4 @@
 2023-05-02 - Add feature
 2023-05-02 - Update configurations
 2023-05-03 - Fix typo
+2023-05-03 - Refactor code
