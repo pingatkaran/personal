@@ -250,3 +250,4 @@
 2023-05-04 - Update README
 2023-05-04 - Improve docs
 2023-05-05 - Fix bug
+2023-05-05 - Update dependencies
