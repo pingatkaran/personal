@@ -255,3 +255,4 @@
 2023-05-06 - Add feature
 2023-05-06 - Update dependencies
 2023-05-07 - Fix typo
+2023-05-07 - Update README
