@@ -258,3 +258,4 @@
 2023-05-07 - Update README
 2023-05-08 - Fix bug
 2023-05-08 - Add tests
+2023-05-09 - Optimize performance
