@@ -262,3 +262,4 @@
 2023-05-09 - Refactor code
 2023-05-10 - Fix bug
 2023-05-10 - Update configurations
+2023-05-11 - Add tests
