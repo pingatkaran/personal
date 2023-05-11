@@ -263,3 +263,4 @@
 2023-05-10 - Fix bug
 2023-05-10 - Update configurations
 2023-05-11 - Add tests
+2023-05-11 - Improve docs
