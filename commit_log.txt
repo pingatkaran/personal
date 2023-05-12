@@ -265,3 +265,4 @@
 2023-05-11 - Add tests
 2023-05-11 - Improve docs
 2023-05-11 - Update README
+2023-05-12 - Optimize performance
