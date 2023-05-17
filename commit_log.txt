@@ -273,3 +273,4 @@
 2023-05-15 - Update dependencies
 2023-05-15 - Fix bug
 2023-05-16 - Fix bug
+2023-05-17 - Refactor code
