@@ -277,3 +277,4 @@
 2023-05-17 - Update configurations
 2023-05-17 - Add tests
 2023-05-18 - Optimize performance
+2023-05-18 - Improve docs
