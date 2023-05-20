@@ -282,3 +282,4 @@
 2023-05-19 - Fix bug
 2023-05-20 - Improve docs
 2023-05-20 - Update configurations
+2023-05-20 - Refactor code
