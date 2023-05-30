@@ -302,3 +302,4 @@
 2023-05-28 - Add feature
 2023-05-29 - Add tests
 2023-05-29 - Improve docs
+2023-05-30 - Fix typo
