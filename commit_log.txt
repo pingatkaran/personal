@@ -304,3 +304,4 @@
 2023-05-29 - Improve docs
 2023-05-30 - Fix typo
 2023-05-30 - Add feature
+2023-05-31 - Fix bug
