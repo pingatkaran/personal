@@ -318,3 +318,4 @@
 2023-06-05 - Improve docs
 2023-06-05 - Fix typo
 2023-06-05 - Optimize performance
+2023-06-06 - Improve docs
