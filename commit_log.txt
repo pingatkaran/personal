@@ -320,3 +320,4 @@
 2023-06-05 - Optimize performance
 2023-06-06 - Improve docs
 2023-06-07 - Add tests
+2023-06-08 - Fix bug
