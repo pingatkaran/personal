@@ -334,3 +334,4 @@
 2023-06-13 - Add tests
 2023-06-13 - Improve docs
 2023-06-13 - Optimize performance
+2023-06-14 - Update configurations
