@@ -336,3 +336,4 @@
 2023-06-13 - Optimize performance
 2023-06-14 - Update configurations
 2023-06-14 - Update dependencies
+2023-06-14 - Improve docs
