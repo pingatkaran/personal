@@ -344,3 +344,4 @@
 2023-06-17 - Optimize performance
 2023-06-17 - Fix typo
 2023-06-17 - Fix bug
+2023-06-18 - Update README
