@@ -347,3 +347,4 @@
 2023-06-18 - Update README
 2023-06-18 - Add tests
 2023-06-18 - Improve docs
+2023-06-19 - Refactor code
