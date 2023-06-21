@@ -352,3 +352,4 @@
 2023-06-20 - Add tests
 2023-06-21 - Update dependencies
 2023-06-21 - Update README
+2023-06-21 - Optimize performance
