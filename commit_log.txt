@@ -360,3 +360,4 @@
 2023-06-24 - Update dependencies
 2023-06-24 - Improve docs
 2023-06-24 - Fix typo
+2023-06-25 - Update README
