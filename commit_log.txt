@@ -378,3 +378,4 @@
 2023-07-04 - Update configurations
 2023-07-04 - Update dependencies
 2023-07-05 - Add tests
+2023-07-06 - Update README
