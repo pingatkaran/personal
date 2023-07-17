@@ -398,3 +398,4 @@
 2023-07-15 - Fix typo
 2023-07-15 - Add feature
 2023-07-16 - Update README
+2023-07-17 - Improve docs
