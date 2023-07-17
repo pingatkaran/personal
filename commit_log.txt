@@ -400,3 +400,4 @@
 2023-07-16 - Update README
 2023-07-17 - Improve docs
 2023-07-17 - Update README
+2023-07-17 - Fix typo
