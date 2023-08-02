@@ -432,3 +432,4 @@
 2023-07-31 - Update dependencies
 2023-08-01 - Improve docs
 2023-08-01 - Fix bug
+2023-08-02 - Fix typo
