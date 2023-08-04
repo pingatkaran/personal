@@ -437,3 +437,4 @@
 2023-08-03 - Update README
 2023-08-04 - Fix typo
 2023-08-04 - Improve docs
+2023-08-04 - Update configurations
