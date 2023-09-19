@@ -518,3 +518,4 @@
 2023-09-18 - Improve docs
 2023-09-19 - Fix bug
 2023-09-19 - Add tests
+2023-09-19 - Refactor code
