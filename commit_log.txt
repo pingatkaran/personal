@@ -528,3 +528,4 @@
 2023-09-24 - Fix typo
 2023-09-24 - Optimize performance
 2023-09-25 - Fix bug
+2023-09-25 - Improve docs
