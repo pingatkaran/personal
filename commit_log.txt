@@ -538,3 +538,4 @@
 2023-09-28 - Update dependencies
 2023-09-29 - Update configurations
 2023-09-29 - Add tests
+2023-09-29 - Improve docs
