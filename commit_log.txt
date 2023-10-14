@@ -564,3 +564,4 @@
 2023-10-12 - Update configurations
 2023-10-12 - Update dependencies
 2023-10-13 - Update README
+2023-10-14 - Improve docs
