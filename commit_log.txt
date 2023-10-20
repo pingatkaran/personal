@@ -578,3 +578,4 @@
 2023-10-19 - Update README
 2023-10-19 - Fix typo
 2023-10-20 - Add tests
+2023-10-20 - Refactor code
