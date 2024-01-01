@@ -2,19 +2,19 @@
 
 # Function to generate random commit messages
 generate_commit_message() {
-    messages=("Update README" "Fix bug" "Add feature" "Improve docs" "Refactor code")
+    messages=("Update README" "Fix bug" "Add feature" "Improve docs" "Refactor code" "Update dependencies" "Fix typo" "Add tests" "Optimize performance" "Update configurations")
     echo ${messages[$RANDOM % ${#messages[@]}]}
 }
 
 # Start and end dates for commits
-start_date="2023-01-01"
-end_date="2023-01-02"
+start_date="2024-01-03"
+end_date="2024-01-04"
 
 # Loop through each day in the date range
 current_date=$start_date
 while [[ "$current_date" < "$end_date" ]]; do
-    # Generate a random number of commits for each day (between 1 and 5)
-    num_commits=$((1 + RANDOM % 5))
+    # Generate a random number of commits for each day (between 1 and 3)
+    num_commits=$((1 + RANDOM % 3))
     
     for ((i = 0; i < num_commits; i++)); do
         # Make a change to the repository
