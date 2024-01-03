@@ -644,3 +644,4 @@
 2023-01-26 - Update README
 2023-01-26 - Add tests
 2023-01-27 - Fix bug
+2024-01-03 - Optimize performance
