@@ -26,7 +26,7 @@ while [[ "$current_date" < "$end_date" ]]; do
     done
     
     # Move to the next day
-    current_date=$(date -I -d "$current_date + 1 day")
+    current_date=$(date -j -v+1d -f "%Y-%m-%d" "$current_date" +"%Y-%m-%d")
 done
 
 # Push the commits to GitHub
