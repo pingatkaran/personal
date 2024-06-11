@@ -30,4 +30,4 @@ while [[ "$current_date" < "$end_date" ]]; do
 done
 
 # Push the commits to GitHub
-git push origin main
+git push origin master
